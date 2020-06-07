@@ -4,7 +4,7 @@ Description
 
 ## Screenshots
 
-<img src="https://github.com/vanshg395/bubble_timeline/blob/master/screenshot.png?raw=true" height="500px">
+<img src="https://i.ibb.co/5TVPhLT/images.png" height="200px">  <img src="https://i.ibb.co/5TVPhLT/images.png" height="200px">  <img src="https://i.ibb.co/5TVPhLT/images.png" height="200px">
 
 ## Installing
 
